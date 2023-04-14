@@ -38,6 +38,8 @@ public class Gui9 extends JFrame implements ChangeListener{
         add(radio3);
         grupoBotones.add(radio3);
     }
+    
+       @Override
        public void stateChanged(ChangeEvent e) {
         if (radio1.isSelected()) {
             setSize(640,480);
