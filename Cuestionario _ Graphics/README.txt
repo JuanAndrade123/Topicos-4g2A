@@ -1,1 +1,0 @@
-El proyecto contiene 2 librerias importadas muy ajenas al JDK base, para un correcto funcionamiento del mismo favor de importarlas antes de ejecutar el codigo de la clase main (Questionnarie)
